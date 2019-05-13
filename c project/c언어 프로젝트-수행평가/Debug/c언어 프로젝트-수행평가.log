@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\gasd2\source\repos\c언어 프로젝트-수행평가\c언어 프로젝트-수행평가\소스.c(137): warning C4474: 'fprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\gasd2\source\repos\c언어 프로젝트-수행평가\c언어 프로젝트-수행평가\소스.c(137): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 5개가 제공되었습니다.
+  c언어 프로젝트-수행평가.vcxproj -> C:\Users\gasd2\source\repos\c언어 프로젝트-수행평가\Debug\c언어 프로젝트-수행평가.exe
